@@ -1,0 +1,47 @@
+button {
+    font-size: 40px;
+    background-color: bisque;
+}
+
+h1,
+h2 {
+    color: black
+}
+
+#press {
+    background-color: brown;
+}
+
+.tag {
+    background-color: blue;
+}
+
+h3+button {
+    color: ghostwhite;
+}
+
+button:hover {
+    color: blueviolet;
+}
+
+
+
+button:active {
+    background-color: black;
+}
+
+.body:nth-of-type(1) {
+    background-color: azure;
+}
+
+h2:first-letter {
+    font-size: 50px;
+}
+
+p::first-line {
+    color: magenta
+}
+
+::selection {
+    background-color: coral;
+}

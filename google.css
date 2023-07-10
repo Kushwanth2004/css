@@ -1,0 +1,19 @@
+body {
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+}
+
+main {
+    width: 70%;
+    margin: 0 auto;
+}
+
+h1 {
+    font-weight: 300;
+}
+
+h1,
+h2,
+h3 {
+    font-family: Raboto, sans-serif;
+    font-weight: 400;
+}

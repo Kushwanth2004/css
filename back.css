@@ -1,0 +1,15 @@
+section {
+    width: 80%;
+    height: 800px;
+    background-color: brown;
+    /*background-image:  url("https://www.chromethemer.com/google-chrome/chrome-themes/images/blue-rose-google-chrome-theme-1.jpg");
+    background-size: contain;
+    background-position: bottom;*/
+    margin: 0 auto;
+    background: center/cover no-repeat url("https://www.chromethemer.com/google-chrome/chrome-themes/images/blue-rose-google-chrome-theme-1.jpg");
+}
+
+h1 {
+    font-size: 80px;
+    color: bisque;
+}
